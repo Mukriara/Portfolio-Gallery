@@ -1,0 +1,12 @@
+
+
+CSS :
+<link href='https://rawcdn.githack.com/Mukriara/Portfolio-Gallery/ed20b898d5135bd87e4b3dc91ad3742675e5be10/Portfolio-Gallery.css' rel='stylesheet'/>
+
+https://rawcdn.githack.com/Mukriara/Portfolio-Gallery/ed20b898d5135bd87e4b3dc91ad3742675e5be10/Portfolio-Gallery.css
+
+JS :
+<script src='https://rawcdn.githack.com/Mukriara/Portfolio-Gallery/ed20b898d5135bd87e4b3dc91ad3742675e5be10/Portfolio-Gallery.js' type='text/javascript'/>
+
+
+https://rawcdn.githack.com/Mukriara/Portfolio-Gallery/ed20b898d5135bd87e4b3dc91ad3742675e5be10/Portfolio-Gallery.js
